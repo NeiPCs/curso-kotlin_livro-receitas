@@ -4,8 +4,8 @@ Seja bem vindo ao nosso livro de receitas!
 
 Fique a vontade, clique nos links abaixo para ver as receitas
 
-| Carne | Frango | LinguiÃ§a | Receita                      |
+| Carne | Frango | Linguiça | Receita                      |
 | :---: | :----: | :------: | :--------------------------- |
-|       |        |    x     | [LinguiÃƒÂ§a calabresa acebolada](./receitas/linguica-acebolada.md) |
+|       |        |    x     | [Linguiça calabresa acebolada](./receitas/linguica-acebolada.md) |
 |       |   x    |          | [Strogonoff de Frango](./receitas/strogonoff-de-frango.md)         |
 |   x   |        |          | [Strogonoff de Carne](./receitas/strogonoff-de-carne.md)          |
